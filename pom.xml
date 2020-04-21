@@ -14,7 +14,7 @@
   <groupId>com.jamesvalles.om</groupId>
   <artifactId>demo-api</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <name>demo-api</name>
   <description>com.jamesvalles.om.demoapi.blogAPI Demo</description>
 
