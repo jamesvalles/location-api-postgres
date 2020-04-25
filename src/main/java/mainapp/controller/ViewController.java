@@ -1,5 +1,7 @@
 package mainapp.controller;
 
+
+
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -7,8 +9,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class ViewController {
 
+
   @RequestMapping("/")
   public String home(){
+    LoggerInstance.LOG.info("Homepage is launched.");
     return "index";
   }
 
