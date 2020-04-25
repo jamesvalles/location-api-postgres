@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <head>
 
-  <title>Basic Location API  using Spring Boot</title>
+  <title>Basic Location API using Spring Boot</title>
 
   <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/cover/">
 
@@ -17,7 +17,7 @@
       .main_container{
           margin: auto;
           width: 75%;
-          border: 1px dotted white;
+          border: 0px dotted white;
           padding: 20px;
       }
 
