@@ -20,3 +20,5 @@ county: "McHenry",
 lat: 42.1641,
 longitude: -88.3064
 }
+
+View live site: https://locationlookup-api.herokuapp.com/
